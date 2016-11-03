@@ -4,6 +4,7 @@ A project based learning activity for people who are getting started with Git an
 
 You can play the game at: http://Azadirachta.github.io/github-games/
 
+Play the game by my rules - i.e. - there are no rules!
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
 Open the App and perform testing for the new widgets
